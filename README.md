@@ -11,6 +11,7 @@ Además de tener sección para adquirir dichas membresias, precios y recomendaci
 
 -----RESPONSIVE------
 Su diseño es totalmente responsivo y se adapta a cualquiert tipo de pantalla.
+
 ![image](https://user-images.githubusercontent.com/95113917/236210056-a0fabad8-38d9-43da-8b6f-6974a6d9a666.png)
 ![image](https://user-images.githubusercontent.com/95113917/236210144-f41d2822-6d17-45d9-8ef1-a3fd5410a7ca.png)
 ![image](https://user-images.githubusercontent.com/95113917/236210222-d9833115-e0ef-4084-8e1e-47837c8b3a08.png)
